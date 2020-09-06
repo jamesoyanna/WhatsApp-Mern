@@ -1,14 +1,13 @@
 import React from 'react';
 
-import SidebarChat from "./SidebarChat";
-import sidebar from './sidebar.css';
+import SidebarChat from "../SidebarChat/SidebarChat";
 import DonutLargeIcon from "@material-ui/icons/DonutLarge";
 import {Avatar, IconButton } from "@material-ui/core";
 import ChatIcon from "@material-ui/icons/Chat";
 import MoreVertIcon from "@material-ui/icons/MoreVert";
 import {SearchOutlined} from "@material-ui/icons";
-import img from '../images/jayman.jpg';
-
+import "./sidebar.css";
+import img from '../../images/jayman.jpg';
 
 
 

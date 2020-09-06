@@ -1,5 +1,5 @@
 import React from 'react';
-import sidebarChat from './sidebarChat.css';
+import './sidebarChat.css';
 import { Avatar } from '@material-ui/core';
 
 const SidebarChat = () => {
